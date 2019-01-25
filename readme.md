@@ -1,7 +1,7 @@
 # PING-PONG
 	This is a a simple remake of traditional ping-pong game.One paddle is controlled by us as human and the other paddle is controlled by program.
 
-	The code is open source. The game is designed to cross platform.
+	The code is open source. The game is designed to be cross platform.
 
 ### Controls
 		**UP arrow key** to move paddle up
