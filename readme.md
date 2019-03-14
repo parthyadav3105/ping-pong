@@ -1,5 +1,5 @@
 # PING-PONG
-	This is a a simple remake of traditional ping-pong game.One paddle is controlled by us as human and the other paddle is controlled by program.
+	This is a a simple remake of traditional ping-pong game. One paddle is controlled by us as human and the other paddle is controlled by program.
 
 	The code is open source. The game is designed to be cross platform.
 
@@ -12,7 +12,7 @@
 	The executable has been tested in windows 7,windows 10.
 
 ### Compiling source code
-	The source code for wrote and tested in windows 7 in codeblocks ide using the default g++ compiler.
+	The source code was wrote and tested in windows 7 in codeblocks ide using the default g++ compiler.
 	You may not face any problem in compiling if you use the codeblock project file stored in "project code block" folder.
 	
 	If you are compiling on some other ide or directly in terminal then you would have to link the following static libraries stored in lib folder.
@@ -39,3 +39,9 @@ CREDITS:
 
 	Problem with gameplay-
 	the ball and paddle moves with different speed on diiferent system with different performance because dt=currentTime-lastTime was not multiplied with their velocity in game loop.
+	
+	
+	
+	
+
+You can find me on twitter: [Asha_Seema_](https://twitter.com/Asha_Seema_)
